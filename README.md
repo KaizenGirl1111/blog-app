@@ -1,4 +1,4 @@
-```markdown
+
 # Blog App Documentation
 
 ## Project Overview
